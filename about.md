@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About me
 permalink: /about/
 ---
 I am a physics PhD specialized in developing software for image processing and data analysis applications. I worked in different research fields, including biophysics, characterization of nano-scale structures, X-ray imaging, neutron imaging and materials science.
