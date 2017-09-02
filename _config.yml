@@ -10,9 +10,9 @@
 
 ### Comment when running locally using jekyll serve
 # This would be the name of your repo
-baseurl: /example
+baseurl: /
 # Full url including your username and repo name
-url: https://albusdemens.github.io/example
+url: https://albusdemens.github.io
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
