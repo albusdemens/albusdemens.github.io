@@ -23,8 +23,8 @@ title: Alberto Cereser
 email: alberto.cereser@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Physicist specialised in developing image processing and data analysis algorithms. I contributed to the development of two microscopes (one from scratch!). Do you have an interesting problem? Send me a line!
-baseurl: "/example" # the subpath of your site, e.g. /blog
-url: "https://albusdemens.github.io/example" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://albusdemens.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: albus_c
 github_username: albusdemens
 
