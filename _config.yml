@@ -9,31 +9,33 @@
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
 # This would be the name of your repo
-baseurl: /example
+#baseurl: /example
 # Full url including your username and repo name
-url: https://albusdemens.github.io/example
+#url: https://albusdemens.github.io/example
 
 # Site settings
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Alberto Cereser
+email: alberto.cereser@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Physicist specialised in developing image processing and data analysis algorithms. I contributed to the development of two microscopes (one from scratch!). Do you have an interesting problem? Send me a line!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+twitter_username: albus_c
+github_username: albusdemens
 
 # Build settings
 markdown: kramdown
 theme: minima
 plugins:
   - jekyll-feed
+
+# Center images
+kramdown:
+  parse_block_html: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

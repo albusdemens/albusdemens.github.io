@@ -3,16 +3,12 @@ layout: page
 title: About
 permalink: /about/
 ---
+I am a physics PhD specialized in developing software for image processing and data analysis applications.
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I worked in different research fields, including biophysics, characterization of nano-scale structures, X-ray imaging, neutron imaging and materials science.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+During my PhD I developed a new microscope to reconstruct, in 3D, the shape and crystallographic orientation of the components of polycrystalline materials using neutrons. You can read more about it [here](https://www.researchgate.net/publication/312605716_Time-of-Flight_3D_Neutron_Diffraction_for_Multigrain_Crystallography) (PhD thesis) and [here](https://www.nature.com/articles/s41598-017-09717-w) (article on Nature Scientific Reports).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+I speak Matlab fluently, and I working on my python, R and bash skills.
 
-
-[jekyll-organization]: https://github.com/jekyll
+I like long-distance running, photo books and coffee beans.
