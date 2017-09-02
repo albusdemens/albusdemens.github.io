@@ -2,13 +2,13 @@
 layout: post
 title:  "Welcome to ToF 3DND!"
 date:   2017-09-02 13:49:41 +0200
-categories: phd, science
+categories: science
 ---
 TL:DR You can't use neutrons at home, but if you have a giant microscope, you can look inside materials in 3D.
 
 An article showcasing time-of-flight 3D neutron diffraction (ToF 3DND), the technique I developed during my PhD, was published this week on [Nature Scientific Reports][sci-rep].
 
-![useful image]({{https://albusdemens.github.io/example/}}/assets/3DND_raw_end.png)
+![useful image]({{ site.url }}/assets/3DND_raw_end.png)
 
 Typical input image of ToF 3DND, and final output. *Left*: one of the 350.000+ images collected at the Japan Proton Accelerator Research Complex ([J-PARC][jparc-wiki]). *Right*: final 3D grain reconstruction.
 {: style="color:black; font-size: 95%; text-align: center;"}
