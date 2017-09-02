@@ -13,4 +13,4 @@ I speak Matlab fluently, and I working on my python, R and bash skills.
 
 I like long-distance running, photo books and coffee beans.
 
-[link-cv]: {{ site }}/pdfs/foo.pdf
+[link-cv]: {{ site }}/pdfs/CV_AC.pdf
