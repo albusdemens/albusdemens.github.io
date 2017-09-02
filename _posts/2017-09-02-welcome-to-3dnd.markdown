@@ -8,7 +8,7 @@ TL:DR You can't use neutrons at home, but if you have a giant microscope, you ca
 
 An article showcasing time-of-flight 3D neutron diffraction (ToF 3DND), the technique I developed during my PhD, was published this week on [Nature Scientific Reports][sci-rep].
 
-![useful image]({{https://albusdemens.github.io}}/assets/3DND_raw_end.png)
+![useful image]({{https://albusdemens.github.io/blog}}/assets/3DND_raw_end.png)
 
 Typical input image of ToF 3DND, and final output. *Left*: one of the 350.000+ images collected at the Japan Proton Accelerator Research Complex ([J-PARC][jparc-wiki]). *Right*: final 3D grain reconstruction.
 {: style="color:black; font-size: 95%; text-align: center;"}
