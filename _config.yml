@@ -19,7 +19,7 @@ url: https://albusdemens.github.io
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Alberto Cereser
+#title: Alberto Cereser
 email: alberto.cereser@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Physicist specialised in developing image processing and data analysis algorithms. I contributed to the development of two microscopes (one from scratch!). Do you have an interesting problem? Send me a line!
