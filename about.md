@@ -13,4 +13,4 @@ I speak Matlab fluently, and I working on my python, R and bash skills.
 
 I like long-distance running, photo books and coffee beans.
 
-[link-cv][]
+[link-cv][https://github.com/albusdemens/albusdemens.github.io/blob/master/assets/CV_AC.pdf]
