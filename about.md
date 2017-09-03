@@ -3,7 +3,7 @@ layout: page
 title: About me
 permalink: /about/
 ---
-I am a physics PhD specialized in developing software for image processing and data analysis applications. I worked in different research fields, including biophysics, characterization of nano-scale structures, X-ray imaging, neutron imaging and materials science.
+I am a physicist specialized in developing software for image processing and data analysis applications. I worked in different research fields, including biophysics, characterization of nano-scale structures, X-ray imaging, neutron imaging and materials science. I am currently a postdoc at the Technical University of Denmark, developing code to visualize in 3D the data from the [dark-field X-ray microscope][link-dfxrm].
 
 Looking for more? Here's my [CV][link-cv]!
 
@@ -14,3 +14,4 @@ I speak Matlab fluently, and I working on my python, R and bash language skills.
 I like long-distance running, photo books and coffee beans.
 
 [link-cv]: albusdemens.github.io/pdfs/CV_AC.pdf
+[link-dfxrm]: https://www.nature.com/articles/ncomms7098
