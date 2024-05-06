@@ -23,8 +23,13 @@ title: Alberto Cereser
 email: alberto.cereser@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
 <<<<<<< HEAD
+<<<<<<< HEAD
   Creative research engineer. My toolbox includes deep learning, generative AI, computer vision, and more. In a previous life I was a physicist. 
 baseurl: "/blog" # the subpath of your site, e.g. /blog
+=======
+  Physicist specialised in developing image processing and data analysis algorithms. I contributed to the development of two microscopes (one from scratch!). Do you have an interesting problem? Send me a line!
+baseurl: "/" # the subpath of your site, e.g. /blog
+>>>>>>> parent of 66f5f28 (test blog structure)
 =======
   Physicist specialised in developing image processing and data analysis algorithms. I contributed to the development of two microscopes (one from scratch!). Do you have an interesting problem? Send me a line!
 baseurl: "/" # the subpath of your site, e.g. /blog
