@@ -1,17 +1,9 @@
 ---
 layout: page
-title: About me
+title: About
 permalink: /about/
 ---
-I am a physicist specialized in developing software for image processing and data analysis applications. I worked in different research fields, including biophysics, characterization of nano-scale structures, X-ray imaging, neutron imaging and materials science. I am currently a postdoc at the Technical University of Denmark, developing code to visualize in 3D the data from the [dark-field X-ray microscope][link-dfxrm].
 
-Looking for more? Here's my [CV][link-cv]!
+I'm a research engineer, with broad experience turning deep learning research into prototypes and products. Since 2019, I've been working in the video game industry, developing solutions both for game and for game developers. Before that, I spent a decade working with images for scientific applications (X-rays, neutrons, and more). During my PhD, I developed a new 3D microscopy technique. 
 
-During my PhD I developed a new microscope to reconstruct, in 3D, the shape and crystallographic orientation of the components of polycrystalline materials using neutrons. You can read more about it [here](https://www.researchgate.net/publication/312605716_Time-of-Flight_3D_Neutron_Diffraction_for_Multigrain_Crystallography) (PhD thesis) and [here](https://www.nature.com/articles/s41598-017-09717-w) (article on Nature Scientific Reports).
-
-I speak Matlab fluently, and I working on my python, R and bash language skills.
-
-I like long-distance running, photo books and coffee beans.
-
-[link-cv]: albusdemens.github.io/pdfs/CV_AC.pdf
-[link-dfxrm]: https://www.nature.com/articles/ncomms7098
+I live in Seoul, South Korea, where I work for the game publisher KRAFTON.
